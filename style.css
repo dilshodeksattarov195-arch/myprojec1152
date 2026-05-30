@@ -1,0 +1,7 @@
+body { background: #cf76e5; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 55px; display: flex; }
+.block-session-0 { color: #cf6768; font-size: 18px; margin-bottom: 5px; }
+.block-order-1 { color: #e83558; font-size: 16px; margin-bottom: 5px; }
+.block-notify-2 { color: #2a235c; font-size: 13px; margin-bottom: 5px; }
+.block-auth-3 { color: #38cbb8; font-size: 14px; margin-bottom: 5px; }
+.block-validator-4 { color: #bc177; font-size: 18px; margin-bottom: 5px; }
